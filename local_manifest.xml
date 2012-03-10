@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="external/v8" name="Kali-/android_external_v8" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="external/webkit" name="Kali-/android_external_webkit" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="frameworks/base" name="Kali-/android_frameworks_base" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="hardware/libhardware" name="Kali-/android_hardware_libhardware" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="hardware/libhardware_legacy" name="Kali-/android_hardware_libhardware_legacy" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="hardware/msm7k" name="Kali-/android_hardware_msm7k" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="hardware/qcom/display" name="Kali-/android_hardware_qcom_display" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="hardware/qcom/media" name="Kali-/android_hardware_qcom_media" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="vendor/qcom/opensource/omx/mm-core" name="Kali-/android_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="vendor/qcom/opensource/omx/mm-video" name="Kali-/android_vendor_qcom_opensource_omx_mm-video" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+  <project path="vendor/qcom/opensource/v8" name="Kali-/android_vendor_qcom_opensource_v8" remote="github" revision="ics_chocolate_M8260AAABQNLZA30136" />
+</manifest>
